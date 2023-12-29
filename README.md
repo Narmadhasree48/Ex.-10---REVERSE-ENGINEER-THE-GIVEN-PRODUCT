@@ -16,11 +16,19 @@
 ### Step 3.:- Save the file and export as .stl
 ### Step 4.:- Check all Electrical connections in the 3D printer.
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+![Screenshot 2023-12-29 082353](https://github.com/Narmadhasree48/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979451/7ecd2384-66d6-4e23-9e9a-4aaa7cc5e2b4)
+
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
+![Screenshot 2023-12-29 082425](https://github.com/Narmadhasree48/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979451/d03b405c-fd5f-43df-afb3-82e30a0b3941)
+
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
-### after click the start option and select printing option standard as shown in below figure.
+![Screenshot 2023-12-29 082439](https://github.com/Narmadhasree48/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979451/d8b5c7db-efff-40b3-8056-28fbb97f3552)
+
+
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+![Screenshot 2023-12-29 082509](https://github.com/Narmadhasree48/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979451/4d231e50-ced4-4a90-9650-6befd9565f82)
+
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
@@ -31,12 +39,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2023-12-29 082533](https://github.com/Narmadhasree48/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979451/0d64e97b-581e-48d9-b627-1d9bcffd8c49)
 
 ### Output:
+![Screenshot 2023-12-29 082608](https://github.com/Narmadhasree48/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979451/095d3908-f3f5-42be-98f2-998d7426898f)
 
 
-### Name:
-### Register Number:
+### Name:NARMADHA SREE S
+### Register Number:23000815
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
